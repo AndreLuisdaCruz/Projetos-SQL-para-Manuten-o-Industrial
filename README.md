@@ -65,13 +65,11 @@ Para evoluir este projeto, os próximos passos seriam:
 - **Análise de Custos:** Adicionar dados financeiros para calcular o **custo total da manutenção** por máquina e falha, além do Retorno sobre o Investimento (ROI) de iniciativas de manutenção preventiva.
 - **Dashboard Interativo:** Criar um painel de controle interativo usando ferramentas de BI (como Power BI ou Tableau), permitindo que gestores de manutenção monitorem os KPIs em tempo real e tomem decisões proativas baseadas em dados.
 
-## **Como Usar o Projeto**
 
-Você pode replicar este projeto facilmente na sua conta do Databricks Community Edition.
+### Autor
 
-1. Crie um novo notebook na sua conta Databricks.
-2. Copie e cole o código do arquivo projeto_databricks_sql.md no notebook.
-3. Siga o passo a passo, executando cada célula na ordem.
-4. Ajuste os nomes de catálogo e schema conforme necessário.
-
-Sinta-se à vontade para explorar e expandir a análise com novas perguntas de negócio!
+* **Nome:** André Cruz
+* **LinkedIn:** andreluisdacruz
+* **GitHub:** andreluisdacruz
+* **Portifólio:** [Portifólio](https://sites.google.com/view/dacruzandre/p%C3%A1gina-inicial)
+* **E-mail:** dacruzandreluis@gmail.com
