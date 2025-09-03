@@ -57,7 +57,7 @@ A análise da adesão ao plano de manutenção preventiva mostrou que:
 
 ## **Lições Aprendidas e Próximos Passos**
 
-Este projeto demonstrou a importância de um pipeline de dados bem estruturado para uma análise eficaz. A utilização de uma tabela "gold" centralizou a lógica de negócios, facilitando análises subsequentes e garantindo a consistência dos resultados. A experiência prática com Databricks e Unity Catalog provou ser inestimável para a governança e a escalabilidade dos dados.
+Este projeto demonstrou a importância de um pipeline de dados bem estruturado para uma análise eficaz. A utilização de uma tabela "gold" centralizou a lógica de negócios, facilitando análises subsequentes e garantindo a consistência dos resultados. A experiência prática com Databricks e Unity Catalog provou ser imprescindivel para a governança e a escalabilidade dos dados.
 
 Para evoluir este projeto, os próximos passos seriam:
 
